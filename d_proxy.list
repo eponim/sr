@@ -3,7 +3,7 @@
 # REPO: https://github.com/eponim/sr
 
 #SUFFIX
-#DOMAIN-SUFFIX,ifconfig.me
+DOMAIN-SUFFIX,ifconfig.me
 #DOMAIN-SUFFIX,ipinfo.io
 DOMAIN-SUFFIX,aol.com
 DOMAIN-SUFFIX,browserleaks.com
