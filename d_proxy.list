@@ -2,6 +2,11 @@
 # AUTHOR: Misha Tugushev, eponim
 # REPO: https://github.com/eponim/sr
 
+#USER_AGENT
+USER_AGENT,t.me
+USER_AGENT,*elegram*
+USER_AGENT,Viber
+
 #SUFFIX
 DOMAIN-SUFFIX,ifconfig.me
 DOMAIN-SUFFIX,ipinfo.io
