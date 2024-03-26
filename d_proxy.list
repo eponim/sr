@@ -4,7 +4,7 @@
 
 #SUFFIX
 DOMAIN-SUFFIX,ifconfig.me
-#DOMAIN-SUFFIX,ipinfo.io
+DOMAIN-SUFFIX,ipinfo.io
 DOMAIN-SUFFIX,aol.com
 DOMAIN-SUFFIX,browserleaks.com
 DOMAIN-SUFFIX,canva.com
