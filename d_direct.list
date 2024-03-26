@@ -11,3 +11,6 @@ DOMAIN-SUFFIX,.by
 #URL-REGEX
 URL-REGEX,.*\.xn--p1ai$
 URL-REGEX,.*\.xn--90ais$
+
+#GEOIP
+GEOIP,RU
