@@ -29,7 +29,7 @@ icmp-auto-reply = true
 always-reject-url-rewrite = false
 udp-policy-not-supported-behaviour = REJECT
 
-update-url = https://raw.githubusercontent.com/eponim/sr/main/sr-main.conf
+update-url = https://raw.githubusercontent.com/eponim/sr/main/sr-test.conf
 
 [Rule]
 # Правила для локальных сетей и GEOIP в начале для скорости
